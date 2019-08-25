@@ -8,7 +8,7 @@ Prezime kao nasledni deo informacije o poreklu svakog pojedinca jeste neophodno 
 - u `json` formatu
 
 # Hijerarhijski pregled projekta
-Faljovi su grupisani prema formatu i sačuvani pod nazivom jednakim početnom slovu prezimena koje sadrže. U osnovnom direktorijumu i u pod-direktorijumu [/prezimena-latinica](/prezimena-latinica) nalazi se fajl `srpska-prezimena` sačuvan u gore navedena tri formata koji sadrži sva prezimena poređana po azbučnom redu u osnovnom direktorijumu projekta i po abecednom redu u pod-direktorijumu [/prezimena-latinica](/prezimena-latinica)
+Faljovi su grupisani prema formatu i sačuvani pod nazivom jednakim početnom slovu prezimena koje sadrže. U osnovnom direktorijumu i u pod-direktorijumu [/prezimena-latinica](/prezimena-latinica) nalazi se fajl [srpska-prezimena](/srpska-prezimena.json) sačuvan u gore navedena tri formata koji sadrži sva prezimena poređana po azbučnom redu u osnovnom direktorijumu projekta i po abecednom redu u pod-direktorijumu [/prezimena-latinica](/prezimena-latinica)
 
 Stablo projekta prikazano je na dijagramu ispod:
 ```
@@ -46,12 +46,12 @@ srpska-prezimena.txt
 README.md
 LICENSE
 ```
-Ukoliko imate potrebu za nekim drugim formatom podataka možete nas kontaktirati direktno putem naše email adrese `fondacija@glasnik.org.rs`
+Ukoliko imate potrebu za nekim drugim formatom podataka možete nas kontaktirati direktno putem naše email adrese: `fondacija@glasnik.org.rs`
 
 # Podaci o projektu
-**Licenca:** MIT
+**Licenca:** MIT - [LICENSE](LICENSE)
 
 **Datum kreiranja projekta:** 25.08.2019.
 
-> Ukoliko imate predolg za dodavanje prezimena možete poslati PR.
-> Ukoliko smatrate da neko prezime treba da bude uklonjeno sa liste ili ste primetili slovnu grešku, otvorite novu grešku.
+> Ukoliko imate predolg za dodavanje prezimena možete poslati [PR](../../pulls).
+> Ukoliko smatrate da neko prezime treba da bude uklonjeno sa liste ili ste primetili slovnu grešku, otvorite [novu grešku](../../issues). Molimo vas da ne otvarate nove greške zbog dodavanja prezimena.
