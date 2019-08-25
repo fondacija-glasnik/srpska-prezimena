@@ -1,7 +1,7 @@
 # Srpska prezimena
 Biblioteka srpskih prezimena
 
-Prezime kao nasledni deo informacije o poreklu svakog pojedinca jeste neophodan za stvaranje šire slike o poreklu čitavog naroda. Do sada je sastavljeno više obimnih zbirki sa srpskim prezimenima i postoji dosta objava na internetu na ovu temu ali izneti podaci do sada još uvek nisu formatirani u obliku pogodnom za mašinsku upotrebu. Pred vama je prva zbirka ovog tipa sačuvana na ćiriličnom i na latiničnom pismu u tri različita formata:
+Prezime kao nasledni deo informacije o poreklu svakog pojedinca jeste neophodno za stvaranje šire slike o poreklu čitavog naroda. Do sada je sastavljeno više obimnih zbirki sa srpskim prezimenima i postoji dosta objava na internetu na ovu temu ali izneti podaci do sada još uvek nisu formatirani u obliku pogodnom za mašinsku upotrebu. Pred vama je prva zbirka ovog tipa sačuvana na ćiriličnom i na latiničnom pismu u tri različita formata:
 
 - u vidu liste sa prezimenima razdvojenim novim redom sačuvanih pod `.txt` ekstenzijom
 - u `csv` formatu (Comma-separated values)
