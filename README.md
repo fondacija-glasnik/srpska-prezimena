@@ -59,3 +59,5 @@ Ukoliko imate potrebu za nekim drugim formatom podataka možete nas kontaktirati
 
 > Ukoliko imate predolg za dodavanje prezimena možete poslati [PR](../../pulls).
 > Ukoliko smatrate da neko prezime treba da bude uklonjeno sa liste ili ste primetili slovnu grešku, otvorite [novu grešku](../../issues). Molimo vas da ne otvarate nove greške zbog dodavanja prezimena.
+
+**Fotografija:** [Macrovector](http://macrovector.com/)
