@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="626" height="626" src="https://i.imgur.com/vxNoQV1.jpg">
+  <img width="626" height="626" src="https://i.imgur.com/rqj89Uh.jpg">
 </p>
 
 # Srpska prezimena
