@@ -53,7 +53,7 @@ LICENSE
 Ukoliko imate potrebu za nekim drugim formatom podataka možete nas kontaktirati direktno putem naše email adrese: `fondacija@glasnik.org.rs`
 
 # Informacije o projektu
-**Licenca:** MIT - [LICENSE fajl](LICENSE)
+**Licenca:** [MIT](LICENSE)
 
 **Datum kreiranja projekta:** 25.08.2019.
 
